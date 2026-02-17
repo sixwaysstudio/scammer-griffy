@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[15277,["/scammer-griffy/_next/static/chunks/223a697e733826da.js","/scammer-griffy/_next/static/chunks/de43b946d3280e21.js"],"ClientPageRoot"]
+3:I[25339,["/scammer-griffy/_next/static/chunks/223a697e733826da.js","/scammer-griffy/_next/static/chunks/0a34b1bc8cc0207d.js"],"default"]
+6:I[69267,["/scammer-griffy/_next/static/chunks/223a697e733826da.js","/scammer-griffy/_next/static/chunks/de43b946d3280e21.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"qREdwvS9CP8pupB3gLDME","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/scammer-griffy/_next/static/chunks/223a697e733826da.js","async":true}],["$","script","script-1",{"src":"/scammer-griffy/_next/static/chunks/0a34b1bc8cc0207d.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

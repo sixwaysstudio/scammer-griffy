@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[69267,["/scammer-griffy/_next/static/chunks/223a697e733826da.js","/scammer-griffy/_next/static/chunks/de43b946d3280e21.js"],"ViewportBoundary"]
+3:I[69267,["/scammer-griffy/_next/static/chunks/223a697e733826da.js","/scammer-griffy/_next/static/chunks/de43b946d3280e21.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[91219,["/scammer-griffy/_next/static/chunks/223a697e733826da.js","/scammer-griffy/_next/static/chunks/de43b946d3280e21.js"],"IconMark"]
+0:{"buildId":"qREdwvS9CP8pupB3gLDME","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Griffy | The Scammer"}],["$","meta","1",{"name":"description","content":"Portfolio of Griffy, One Of The Best Scammer in Bangladesh"}],["$","link","2",{"rel":"icon","href":"/scammer-griffy/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
